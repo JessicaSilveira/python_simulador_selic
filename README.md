@@ -1,5 +1,3 @@
-## **## Vamos criar um README.md show para o seu projeto!** 
-
 **## Sugestão de Estrutura:**
 
 ### **Título:** Simulador Selic: Viaje no Tempo e Descubra Seus Investimentos! 
