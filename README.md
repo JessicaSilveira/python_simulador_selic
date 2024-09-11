@@ -1,4 +1,3 @@
-**## Sugestão de Estrutura:**
 
 ### **Título:** Simulador Selic: Viaje no Tempo e Descubra Seus Investimentos! 
 
